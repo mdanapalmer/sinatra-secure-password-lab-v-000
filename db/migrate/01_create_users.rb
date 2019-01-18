@@ -6,3 +6,4 @@ def change
     t.string :password
   end
 end
+end
